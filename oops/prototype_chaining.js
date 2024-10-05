@@ -58,3 +58,10 @@ let parents = {
  }
 
 //  Novels --- > prototype (methods,properties,prototype(parent class)) --- > Books ----> prototype (methods,properties,prototype(Object.prototype)) ----> a typical example of prototype chaining through inheritance 
+
+// __proto__ vs prototype
+
+// Note 
+/* prototype is defined on the constructor function which is nothing but a object
+ whereas __proto__ is internal implementation in js which is used to point to that object
+ */

@@ -1,0 +1,38 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="bKAU85yIhSAneiX_ikFd">
+    <mxGraphModel dx="954" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OVG015MLcAyARm9ZlvhB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVG015MLcAyARm9ZlvhB-1" target="OVG015MLcAyARm9ZlvhB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVG015MLcAyARm9ZlvhB-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;function&lt;/font&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="70" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OVG015MLcAyARm9ZlvhB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVG015MLcAyARm9ZlvhB-2" target="OVG015MLcAyARm9ZlvhB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVG015MLcAyARm9ZlvhB-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Prototype&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVG015MLcAyARm9ZlvhB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVG015MLcAyARm9ZlvhB-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="95.5" as="targetPoint" />
+            <mxPoint x="540" y="207.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="540" y="208" />
+              <mxPoint x="540" y="96" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVG015MLcAyARm9ZlvhB-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;constructor&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="207.5" width="100" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="OVG015MLcAyARm9ZlvhB-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;when function is invoked with&amp;nbsp;&lt;br&gt;new a link is established&lt;br&gt;bw function and prototype&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="147.5" width="210" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

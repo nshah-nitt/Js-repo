@@ -43,3 +43,23 @@ const obj = {
  * let's define the constructor via function and 
  * try to use prototype to add the method over fucntional constructor
  */
+
+function Dogs(name,breed){
+    this.name = name
+    this.breed = breed
+}
+            // called by new  (refer prototype.io for more clarity)
+// function -------> prototype ------
+//     |                             |
+//     |                             |
+//     ------------------------- constructor
+
+let dog = new Dogs("fluffy","Pomerian")
+// added prototype to function Dogs
+Dogs.prototype.bark = function(){ 
+    return `${this.name} says woof!`
+}
+
+// used again the constructor function attached to prototype to call new Dogs object
+let old_dog = new dog.constructor("daisy","hutch")
+console.log(old_dog)
